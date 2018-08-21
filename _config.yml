@@ -1,2 +1,3 @@
 name: Posts to be uploaded here Wendy1013
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
